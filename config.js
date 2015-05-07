@@ -66,7 +66,7 @@ var config = {
     host: 'smtp.126.com',
     port: 25,
     auth: {
-      user: 'knockoutcn@126.com',
+      user: 'knockoutjscn@126.com',
       pass: 'wikin026'
     }
   },
