@@ -35,8 +35,8 @@ var config = {
   cnzz_tracker_id: '',
 
   // mongodb 配置
-  db: 'mongodb://127.0.0.1/node_club_dev',
-  db_name: 'node_club_dev',
+  db: 'mongodb://127.0.0.1/knockout_club',
+  db_name: 'knockout_club',
 
   // redis 配置，默认是本地
   redis_host: '127.0.0.1',
@@ -46,7 +46,7 @@ var config = {
   auth_cookie_name: 'kocn_club',
 
   // 程序运行的端口
-  port: 3000,
+  port: 80,
 
   // 话题列表显示的话题数量
   list_topic_count: 20,
@@ -82,7 +82,7 @@ var config = {
   GITHUB_OAUTH: {
     clientID: '91db0ebd4c29352f625b',
     clientSecret: '1b4795294bf056d6821e104f295598d66ee46a39',
-    callbackURL: 'http://knockout.com.cn/auth/github/callback'
+    callbackURL: 'http://www.knockout.com.cn/auth/github/callback'
   },
   // 是否允许直接注册（否则只能走 github 的方式）
   allow_sign_up: true,
