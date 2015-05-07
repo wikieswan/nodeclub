@@ -79,7 +79,7 @@ var config = {
   admins: { 
     admin: true,
     lyc152:true,
-    linkarys:true，
+    linkarys:true,
     TopDoc： true 
   },
 
