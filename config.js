@@ -26,7 +26,7 @@ var config = {
     [ '/about', '关于' ]
   ],
   // cdn host，如 http://cnodejs.qiniudn.com
-  site_static_host: 'http://wikieswan.qiniudn.com', // 静态文件存储域名
+  site_static_host: '', // 静态文件存储域名
   // 社区的域名
   host: 'localhost',
   // 默认的Google tracker ID，自有站点请修改，申请地址：http://www.google.com/analytics/
@@ -73,7 +73,7 @@ var config = {
 
   //weibo app key
   weibo_key: 10000000,
-  weibo_id: 'http://weibo.com/3644532470/profile?topnav=1&wvr=6',
+  weibo_id: 'your_weibo_id',
 
   // admin 可删除话题，编辑标签，设某人为达人
   admins: { 
