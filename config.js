@@ -80,7 +80,7 @@ var config = {
     admin: true,
     lyc152:true,
     linkarys:true,
-    TopDoc： true 
+    TopDoc: true 
   },
 
   // github 登陆的配置
