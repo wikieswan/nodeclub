@@ -46,7 +46,7 @@ var config = {
   auth_cookie_name: 'kocn_club',
 
   // 程序运行的端口
-  port: 80,
+  port: 3000,
 
   // 话题列表显示的话题数量
   list_topic_count: 20,
@@ -80,7 +80,8 @@ var config = {
     admin: true,
     lyc152:true,
     linkarys:true,
-    TopDoc: true 
+    TopDoc: true,
+    "七步才子":true 
   },
 
   // github 登陆的配置
