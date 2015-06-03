@@ -99,12 +99,12 @@ var config = {
   // 下面两个配置都是文件上传的配置
 
   // 7牛的access信息，用于文件上传
-  qn_access: {
-    accessKey: 'dy_E46OZRBersHPRhwd306Pbu7F9XiGYRtbAK4nM',
-    secretKey: 'rM7lI3RIxqfeIkWpeFeNoDmOWBEPR6tBBUpnjcP1',
-    bucket: 'wikieswan',
-    domain: 'http://{bucket}.qiniudn.com'
-  },
+  // qn_access: {
+  //   accessKey: 'dy_E46OZRBersHPRhwd306Pbu7F9XiGYRtbAK4nM',
+  //   secretKey: 'rM7lI3RIxqfeIkWpeFeNoDmOWBEPR6tBBUpnjcP1',
+  //   bucket: 'wikieswan',
+  //   domain: 'http://{bucket}.qiniudn.com'
+  // },
 
   // 文件上传配置
   // 注：如果填写 qn_access，则会上传到 7牛，以下配置无效
